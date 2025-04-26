@@ -1,0 +1,27 @@
+
+body{
+padding: 20px;
+text-align:center;
+border-style: dotted ;
+background-color:#03A791;
+border:2px solid black;
+border-style:dashed;
+padding: 10px;
+width: fit-content;
+margin: 20px auto;
+}
+p.A{font-style: italic;
+}
+h2{ text-align: justify;}
+p.B{ text-align: justify;
+text-decoration:underline;}
+input[type="button"]{
+    padding: 10px 20 px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #FFC6C6;
+    color: rgb(34, 29, 22);
+}
+input[type="button"]:hover{
+    background:#45a049 ;
+}
